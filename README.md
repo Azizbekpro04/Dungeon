@@ -3,8 +3,6 @@ MiniDungeons is a fast-paced and action-packed 2D arcade-style shooting game whe
 
 
 # Screenshots
-Some of the gameplay mechanics are shown below. <br>
-
 [Gameplay](https://drive.google.com/file/d/16c3PEiHuuatFqU5ucXZc_J86dCVnrnJs/view?usp=sharing)
 
 
