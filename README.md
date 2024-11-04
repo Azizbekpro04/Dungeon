@@ -1,21 +1,12 @@
 # About
-![Title](https://github.com/4-bytes/Mini-Dungeons/blob/master/gifs/title.gif)
-
 MiniDungeons is a fast-paced and action-packed 2D arcade-style shooting game where the main objective is to adventure as deep into the dungeon as possible and progress through a variety of levels with varying complexity and challenges. The gameplay features include a number of different playable characters, some that will be locked from the start. As the player progresses through the game, they will be able to unlock new characters to play as. There are also a wide variety of enemies that can be encountered, each has its own unique behaviours and characteristics. The rooms in a dungeon are procedurally generated, and these rooms may have enemies, traps or chests that can be interacted with. The further into the dungeon the player explores, the rooms increase in difficulty. This game was inspired by Enter the Gungeon, The Binding of Isaac and Soul Knight.
 
 
 # Screenshots
 Some of the gameplay mechanics are shown below. <br>
 
-![Gameplay 1](https://github.com/4-bytes/Mini-Dungeons/blob/master/gifs/gameplay1.gif) 
+![Gameplay 1]([https://github.com/4-bytes/Mini-Dungeons/blob/master/gifs/gameplay1.gif](https://drive.google.com/file/d/16c3PEiHuuatFqU5ucXZc_J86dCVnrnJs/view?usp=sharing)
 
-![Gameplay 2](https://github.com/4-bytes/Mini-Dungeons/blob/master/gifs/gameplay2.gif)
-
-![Gameplay 3](https://github.com/4-bytes/Mini-Dungeons/blob/master/gifs/gameplay3.gif)
-
-![Gameplay 4](https://github.com/4-bytes/Mini-Dungeons/blob/master/gifs/gameplay4.gif)
-
-![Gameplay 5](https://github.com/4-bytes/Mini-Dungeons/blob/master/gifs/gameplay5.gif)
 
 # Setup Instructions
 Clone this repository and open it in Unity. If you are running the game from a Unity Project, ensure that the display settings are set to 1920x1080 (fixed resolution) so that the game runs as expected even on different screen sizes and the scenes are fully visible. The main playable scene is called MainMenu, and the game should be run starting from this scene. Alternatively, you can publish as a build by going to <b>File > Build Settings.</b>
