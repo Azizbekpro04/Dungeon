@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Object
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerBullet
+  - Enemy
+  - EnemyBullet
+  - Traps
+  - Items
+  - Objects
+  - Ignore
+  - Room
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 165377335
+    locked: 0
+  - name: Tilemap
+    uniqueID: 658041369
+    locked: 0
+  - name: Object
+    uniqueID: 3096829777
+    locked: 0
+  - name: Item
+    uniqueID: 4055552675
+    locked: 0
+  - name: Enemy
+    uniqueID: 391057833
+    locked: 0
+  - name: Bullet
+    uniqueID: 646406583
+    locked: 0
+  - name: Player
+    uniqueID: 2223703133
+    locked: 0

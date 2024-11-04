@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 12a1c23767ee30344a5a0df96a60a8eb
+  - enabled: 1
+    path: Assets/Scenes/Cellar.unity
+    guid: a889bc9b0511ca04282ca5d91ce68440
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: d9a448f9d076ec949bc7da49eb80f2c6
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 79b0c7abcab8ada49a5d3759d04cddc9
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 39c3bc86072167d40be1de0e4b5735b8
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: e2c2a8b6eb817ce40ada330bfa437cdb
+  - enabled: 1
+    path: Assets/Scenes/CompleteDungeon.unity
+    guid: 806ba6916310d9e4e909927da8880593
+  - enabled: 1
+    path: Assets/Scenes/TestPlayer.unity
+    guid: 585e2a5e601b3f54b812fcbc8386bcee
+  - enabled: 1
+    path: Assets/Scenes/TestGenerateRooms.unity
+    guid: bb187fb885118a849918258d2b45b50c
+  - enabled: 1
+    path: Assets/Scenes/TestPrototype.unity
+    guid: f7bc3f3a9c820484db4fe5733e4186ae
+  m_configObjects: {}
